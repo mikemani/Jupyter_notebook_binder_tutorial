@@ -5,4 +5,4 @@ To launch this repo in RStudio, click [![Binder](https://mybinder.org/badge_logo
 
 
 
-To laucnh jupyter notebook click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikemani/Jupyter_notebook_binder_tutorial.git/master?filepath=test.ipynb)
+To launch jupyter notebook click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikemani/Jupyter_notebook_binder_tutorial.git/master?filepath=test.ipynb)
